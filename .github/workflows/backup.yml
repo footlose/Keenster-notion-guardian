@@ -1,4 +1,4 @@
-name: "Backup Notion Workspace"
+name: "Backup Notion Workspace-wangshuai"
 
 on:
   push:
